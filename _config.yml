@@ -51,9 +51,9 @@ menu:
     url:               /#about
   - title:             PALESTRAS E ARTIGOS
     url:               /#publications
-  - title:             CONTACT
+  - title:             CONTATO
     url:               /#contact-me
-  - title:             RESUME
+  - title:             CURRÍCULO
     url:               /assets/files/Curriculo-Lucas.pdf
 
 # Add links to the footer.
