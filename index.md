@@ -3,7 +3,7 @@ layout: page
 name: index
 title: Personal Website
 description: >
-  Personal Website of Abir Saha, PhD Candidate in Technology and Social Behavior at Northwestern University.
+  Site pessoal - Lucas Borsatto - Back-end developer
 hide_description: true
 ---
 <!-- <script type="text/javascript">
@@ -23,27 +23,20 @@ hide_description: true
 	}
 </style>
 
-<!-- ##  Download my [UX Research Portfolio](https://abirsh.github.io/assets/files/Portfolio-Saha-Abir.pdf){:target="_blank"}!
+<h2 class="h1" style="color: rgb(1,92,171)" id="about">Sobre</h2>
 
---- -->
-<h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
+Olá, sou Lucas Borsatto, desenvolvedor back-end há mais de 8 anos.
 
-Hi! I'm Abir. I am a PhD Candidate in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication program at Northwestern University. I work with Prof. Anne Marie Piper. 
+Tenho conhecimentos sólidos em Java, Node e AWS. Além disso, tenho experiência prática na aplicação de DDD, TDD e Microsserviços síncronos e assíncronos. Normalmente, tenho um papel de mentor de novos membros da equipe, tendo projetado o primeiro processo de onboarding da equipe na Ame. Também tenho a prática de ensinar pessoas com menos experiência, tendo em meu currículo diversas palestras que muitas vezes resultam em POCs que contribuem muito para o crescimento do negócio e dos projetos que atuo. Mantenho um blog no Medium sobre desenvolvimento de software e também atuei como coordenador do GDG Petrópolis por muitos anos.
 
-My research interest falls in the intersection of Human-Computer Interaction, User-Centered Design, and Accessibility. In my research, I study and design tools to support computer-supported creative work for people with disabilities. Through interviews, observations, and content analysis, my work contributes new understanding of how accessibility unfolds at different stages of computer-supported content creation – from learning the tools to developing professional expertise – and the central role communities of disabled creators play in sustaining access in their skilled work. Drawing on these insights, I design and evaluate tools to scaffold accessible learning opportunities for disabled content creators.  
+Gosto muito de tecnologia, astronomia, futebol e xadrez ([Profile chess.com](https://www.chess.com/member/lucasb001)).
 
-Previously, I completed my Master of Science in Electrical and Computer Engineering (ECE) at Indiana University-Purdue University Indianapolis (IUPUI) and obtained my Bachelor degree (B.Sc.) in Electrical and Electronic Engineering (EEE) at Bangladesh University of Engineering and Technology (BUET).  
-
-I love traveling and photography. Through my camera and lens, I capture the juxtaposition of nature, architecture, and humans as I travel through places and time. 
-
-<!-- You can find me on [Instagram](http://instagram.com/abirsaha_){:target="_blank"}. -->
 
 <div class="body-social sidebar-social">
   <ul>
-    <li> <a href="https://www.linkedin.com/in/abirsaha-" title="LinkedIn" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span aria-hidden="true">LinkedIn </span><span class="sr-only">Abir Saha's LinkedIn profile</span></a></li>
-    <li> <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=40lh_7kAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" title="Google Scholar" class="no-mark-external" target="_blank"> <span class="icon-googlescholar"></span> <span aria-hidden="true">Google Scholar </span><span class="sr-only">Abir Saha's Google Scholar page</span></a></li>
-    <li> <a href="https://twitter.com/abirsaha_" title="Twitter" class="no-mark-external" target="_blank"> <span class="icon-twitter"></span> <span aria-hidden="true">Twitter </span><span class="sr-only">Abir Saha's Twitter profile</span></a></li>
-    <!-- <li> <a href="https://instagram.com/abiroutdoors" title="Instagram" class="no-mark-external" target="_blank"> <span class="icon-instagram"></span> <span aria-hidden="true">Instagram </span><span class="sr-only">Abir Saha's Instagram profile</span></a></li> -->
+    <li> <a href="https://www.linkedin.com/in/lucas-borsatto-8b9a405a/" title="LinkedIn" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span aria-hidden="true">LinkedIn </span><span class="sr-only">LinkedIn</span></a></li>
+    <!-- <li> <a href="https://github.com/lucasbsimao" title="GitHub" class="no-mark-external" target="_blank"> <span class="icon-github"></span> <span aria-hidden="true">Github </span><span class="sr-only">GitHub</span></a></li>
+    <li> <a href="https://stackoverflow.com/users/2581736/lucas-borsatto" title="Stack Overflow" class="no-mark-external" target="_blank"> <span class="icon-stackoverflow"></span> <span aria-hidden="true">Stack Overflow</span><span class="sr-only">Stack Overflow</span></a></li> -->
   </ul>
 </div>
 
