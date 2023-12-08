@@ -5,50 +5,14 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
 <url>
-  <loc>https://abirsh.github.io/</loc>
+  <loc>https://lucasbsimao.github.io/</loc>
   <lastmod>2023-02-12T23:48:33+00:00</lastmod>
   <priority>1.00</priority>
 </url>
-<!-- <url>
-  <loc>https://abirsh.github.io/assets/files/Portfolio-Saha-Abir.pdf</loc>
-  <lastmod>2023-02-12T23:48:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url> -->
+
 <url>
-  <loc>https://abirsh.github.io/publications/BVI-audio-CHI2023-preprint.pdf</loc>
-  <lastmod>2023-02-12T23:48:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://abirsh.github.io/publications/BVI-audio-ASSETS2020-preprint.pdf</loc>
-  <lastmod>2023-02-12T23:48:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://abirsh.github.io/publications/Autism_CHI18.pdf</loc>
-  <lastmod>2023-02-12T23:48:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://abirsh.github.io/publications/BVI-audio-CHI2022-DC.pdf</loc>
-  <lastmod>2023-02-12T23:48:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://abirsh.github.io/publications/DHOH-audio-CHI2021-preprint.pdf</loc>
-  <lastmod>2023-02-12T23:48:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://abirsh.github.io/legal</loc>
-  <lastmod>2023-02-12T23:48:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://abirsh.github.io/assets/files/Resume-Saha-Abir.pdf</loc>
+  <loc>https://lucasbsimao.github.io/assets/files/Lucas_BorsattoSimao_Curriculo.pdf</loc>
   <lastmod>2023-02-12T23:48:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>

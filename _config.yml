@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://abirsh.github.io
+url:                   https://lucasbsimao.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -43,7 +43,6 @@ author:
   name:                Lucas Borsatto
   email:               <lucasborsattosimao@hotmail.com>
   # Used by `jekyll-seo-tag`:
-  twitter:             abirsaha_
 
 # Add links to the sidebar.
 menu:
@@ -54,7 +53,7 @@ menu:
   - title:             CONTATO
     url:               /#contact-me
   - title:             CURRÍCULO
-    url:               /assets/files/Curriculo-Lucas.pdf
+    url:               /assets/files/Lucas_BorsattoSimao_Curriculo.pdf
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
