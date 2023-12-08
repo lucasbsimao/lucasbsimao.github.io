@@ -29,7 +29,7 @@ Olá, sou Lucas Borsatto, desenvolvedor back-end há mais de 8 anos.
 
 Tenho conhecimentos sólidos em Java, Node e AWS. Além disso, tenho experiência prática na aplicação de DDD, TDD e Microsserviços síncronos e assíncronos. Normalmente, tenho um papel de mentor de novos membros da equipe, tendo projetado o primeiro processo de onboarding da equipe na Ame. Também tenho a prática de ensinar pessoas com menos experiência, tendo em meu currículo diversas palestras que muitas vezes resultam em POCs que contribuem muito para o crescimento do negócio e dos projetos que atuo. Mantenho um blog no Medium sobre desenvolvimento de software e também atuei como coordenador do GDG Petrópolis por muitos anos.
 
-Gosto muito de tecnologia, astronomia, futebol e xadrez ([Profile chess.com](https://www.chess.com/member/lucasb001)).
+Gosto muito de tecnologia, astronomia, futebol e xadrez (aceito desafios no [chess.com](https://www.chess.com/member/lucasb001)).
 
 
 <div class="body-social sidebar-social">
@@ -41,115 +41,65 @@ Gosto muito de tecnologia, astronomia, futebol e xadrez ([Profile chess.com](htt
 </div>
 
 ---
-<h2 class="h1" style="color: rgb(1,92,171)" id="research">Research </h2>
+<h2 class="h1" style="color: rgb(1,92,171)" id="lectures">Palestras </h2>
 
-<h3 class="h2">Understanding Accessibility in Audio Production</h3>
-The advent of digital audio workstations and other digital audio tools has brought a critical shift in the audio industry by empowering amateur and professional audio content creators with the necessary means to produce high quality audio content. Yet, we know little about the accessibility of widely used audio production tools for blind and low vision people. Through interviews with 18 blind and low vision audio professionals and hobbyists, I found that accessible audio production involves: piecing together accessible and efficient workflows through a combination of mainstream and custom tools; achieving professional competency through a steep learning curve in which domain knowledge and accessibility are inseparable; and facilitating learning and creating access by engaging in online communities of blind audio enthusiasts. I reflected on the deep entanglement between accessibility and professional competency and conclude with design considerations to inform future development of accessible audio production tools.
+<h3 class="h2">DDD e SOLID aplicado para API Design</h3>
+
+<h3 class="h2">Data: 07/12/2023</h3>
+
+Apresentação para orientação interna da equipe de desenvolvimento da Porto Seguro. Foram levantados pontos de melhoria no desenvolvimento das APIs, como melhor aplicação de SOLID e conceitos de DDD e REST.
+
+[PDF da palestra](https://lucasbsimao.github.io/lectures/ApiDesign.pdf)
 <br/>
 
-<!-- <span class="icon-wrench" aria-hidden="true"></span> **Methods: Contextual inquiry, in-depth interviews** 
-<br/> 
-<br/> -->
-**Contextual inquiry, in-depth interviews**
-{:.note title="Methods Used"}
+<h3 class="h2">Containers Python na AWS</h3>
+
+<h3 class="h2">Data: 12/05/2020</h3>
+
+Tutorial feito em evento do GDG Petrópolis, no qual apresentei um passo a passo de como containers funcionam e como realizar um deploy básico na AWS. Foram apresentadas vantagens que a utilização de Docker pode oferecer ao desenvolvimento de projetos.
+
+[PDF da palestra](https://lucasbsimao.github.io/lectures/Containers.pdf)
+
 <br/>
 
+<h3 class="h2">Programação Assíncrona com Kotlin Coroutines</h3>
 
-<h3 class="h2">Understanding Peer-To-Peer Support Exchange in an Online Community for Blind Audio Producers</h3>
-Exchange of peer-to-peer support in online Q&A communities plays an instrumental role in helping people learn and use complex software tools. While prior work has documented how disabled people support each other in finding accessible practices and workarounds in different contexts, research on understanding their participation in dedicated online Q&A communities has been limited. Through the analysis of 180 conversation threads consisting of 1140 posts in an online text-based Q&A community of blind and low-vision audio producers, I revealed various strategies members in this community use to formulate their queries and provide effective solutions regarding screen reader based navigation of complex graphical user interfaces. I reflected upon my findings to discuss the complexities blind and low-vision software users face in developing a shared understanding during collaborative troubleshooting through textual conversations and reimagine how online Q&A platforms could enhance peer-to-peer instructional support among screen reader users.
+<h3 class="h2">Data: 23/11/2019</h3>
+
+Apresentação feita no Dev Fest de 2019 no Rio de Janeiro com o objetivo de mostrar a utilização de Kotlin Coroutines e como funcionam, diferenciando-as das threads e os principais pontos de cada abordagem.
+
+[PDF da palestra](https://lucasbsimao.github.io/lectures/kotlincoroutines-200207132933.pdf)
+
 <br/>
 
-<!-- <span class="icon-wrench" aria-hidden="true"></span> **Methods: Online content analysis**
-<br/> 
-<br/> -->
-**Online content analysis**
-{:.note title="Methods Used"}
+<h3 class="h2">Kotlin Backend</h3>
+
+<h3 class="h2">Data: 22/08/2019</h3>
+
+Apresentação interna para a equipe de desenolvedores da Americanas S/A, demonstrando o desenvolvimento de uma POC transformando um dos micro serviços que a equipe gerenciava de Java para Kotlin. Foram apresentadas diferenças de performance e de código, e quais vantagens Kotlin apresenta no desenvolvimento de micro serviços.
+
+[PDF da palestra](https://lucasbsimao.github.io/lectures/kotlinbackendpresentation-190823024648.pdf)
+
 <br/>
 
+<h3 class="h2">Generative Adversarial Networks</h3>
 
-<h3 class="h2">Enhancing Accessible Interactive Tutorial Creation by Blind Audio Producers</h3>
-Audio production is a skilled practice that requires mastery in highly complex software and hardware tools. Blind audio producers face a steep learning curve where they must learn multiple inaccessible audio production tools in conjunction with workarounds for screen reader support. Learning audio production is made even more challenging due to a scarcity of educational resources geared towards blind people. Grounded in my formative interviews and observations with seven blind audio production instructors, I designed Tutoria11y, an extension for GarageBand to support blind audio producers in creating accessible, interactive tutorials that screen reader users can follow to receive step-by-step guidance and confirmation of their actions. Findings from my design exploration sessions with five blind instructors highlight how Tutoria11y can support tutorial creation and augment tutorial playback for blind audio producers. I discussed how we can rethink technology’s role as a means to amplify, rather than replace, the knowledge of disabled experts.
+<h3 class="h2">Data: 26/04/2017</h3>
+
+Introdução feita sobre GANs (Generative Adversarial Networks) no Meetup de Data Science do Rio de Janeiro, sendo este o tópico foco da minha Iniciação Científica da época. Foi feito um aprofundamento teórico estatístico e das bases do funcionamento das GANs, que foram primordiais para algoritmos de IA geradores de imagens. 
+
+[PDF da palestra](https://lucasbsimao.github.io/lectures/generativeadversarialnets-170426154023.pdf)
+
 <br/>
-
-<!-- <span class="icon-wrench" aria-hidden="true"></span> **Methods: Observation study, in-depth interviews, usability testing**
-<br/>
-<br/> -->
-**Observation study, in-depth interviews, usability testing**
-{:.note title="Methods Used"}
-<br/>
-
-<!-- **DESIGNING FOR ACCESSIBILITY IN AUDIO PRODUCTION AMONG BLIND AND LOW VISION PEOPLE**  
-*Dissertation Committee: [Anne Marie Piper (chair)](https://www.ics.uci.edu/~ampiper/){:target="_blank"}, Darren Gergle, Marcelo Worsley, and Shaun Kane* 
-
-In this project, I use interviews, observations, and content analysis to understand how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I design accessible tools to support accessible learning in audio production tools for blind audio producers.
-
-
-<h3 class="h2">Past Projects</h3>
-**DESIGN OF SMART TECHNOLOGIES FOR CHILDREN WITH AUTISM SPECTRUM DISORDER**    
-*Mentors: [Shameem Ahmed](https://facultyweb.cs.wwu.edu/~ahmeds/){:target="_blank"}  and  [Moushumi Sharmin](https://facultyweb.cs.wwu.edu/~sharmim/){:target="_blank"}*
-
-In this project, we did a systematic literature review and qualitative coding of scholarly articles regarding smart technologies (wearables, smartphones, VR devices etc.) designed to support autistic children. We devised a set of design implications to guide the development of autism support smart technologies.  
-<br/>
-**DEVELOPMENT OF TESTING METHODS FOR VEHICLE ROAD DEPARTURE MITIGATION SYSTEMS**  
-*Mentor: [Stanley Chien](https://et.iupui.edu/people/schien){:target="_blank"}*
-
-In this project sponsored by [Toyota Collaborative Safety Research Center](https://www.toyota.com/csrc/){:target="_blank"}, I worked on the development of standard testing equipment and methods to evaluate the performance of Road Departure Mitigation systems of self-driving vehicles.  
-Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-tasi-toyota-autonomous-vehicles.html){:target="_blank"}]
- -->
----
-<h2 class="h1" style="color: rgb(1,92,171)" id="publications">Publications </h2>
-
-<h3 class="h2">Peer-reviewed Conference Papers</h3>
-
-* **Abir Saha**, Darren Gergle, and Anne Marie Piper. [Understanding Peer-to-Peer Instructional Support in an Online Community for Blind Audio Producers](https://abirsh.github.io/publications/BVI-audio-ASSETS2023-preprint.pdf){:target="_blank"}. In *Proceedings of the 25th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2023)*, October 2023, New York, NY, USA.  
-
-
-* **Abir Saha**, Thomas B. McHugh, and Anne Marie Piper. [Tutoria11y: Enhancing Accessible Interactive Tutorial Creation by Blind Audio Producers](https://abirsh.github.io/publications/BVI-audio-CHI2023-preprint.pdf){:target="_blank"}. In *2023 CHI Conference on Human Factors in Computing Systems (CHI 2023)*, April 2023, Hamburg, Germany.  
-
-
-* **Abir Saha** and Anne Marie Piper. [Understanding Audio Production Practices of People with Vision Impairments](https://abirsh.github.io/publications/BVI-audio-ASSETS2020-preprint.pdf){:target="_blank"}. In *Proceedings of the 22nd International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2020)*, Virtual Event, Greece, October 2020.   
-<span class="icon-award" aria-hidden="true"></span> **Best Paper Nominee**   
-  
-
-* Lin Li, **Abir Saha**, Seeta Ram Pandey, Yaobin Chen, Stanley Chien, and Rini Sherony. Infrared Reflectance Requirements of Metal Guardrail Surrogates for the Evaluation of Vehicle Road Departure Mitigation Systems. In *2019 IEEE Intelligent Transportation Systems Conference (ITSC)*, Auckland, New Zealand, October 2019. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8917344){:target="_blank"}]   
-  
-
-* Moushumi Sharmin, Monsur Hossain, **Abir Saha**, Maitraye Das, Margot Maxwell, and Shameem Ahmed. [From Research to Practice: Informing the Design of Autism Support Smart Technology](https://abirsh.github.io/publications/Autism_CHI18.pdf){:target="_blank"}. In *Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2018)*, Montreal, Canada, April 2018. [[ACM DL](https://dl.acm.org/doi/abs/10.1145/3173574.3173676){:target="_blank"}]   
-  
-
-* **Abir Saha** and Maitraye Das. Impact of Social Networking on Post-Partum Depression in Women: An Analysis in the Context of Bangladesh. In *Proceedings of the 20th IEEE International Conference on Computer and Information Technology (ICCIT)*, Dhaka, Bangladesh, December 2017. [[IEEE Xplore](https://doi.org/10.1109/ICCITECHN.2017.8281831){:target="_blank"}]   
-  
-  
-<h3 class="h2">Journal Article</h3>
-
-<!-- * Tahsin Reasat, **Abir Saha**, and Md. Forkan Uddin. Cognitive Radio Network with Coordinated Multipoint Joint Transmission. In *International Journal of Communication Systems (IJCS)*, March 2017. [[Wiley](http://onlinelibrary.wiley.com/doi/10.1002/dac.3310/abstract){:target="_blank"}]   -->  
-<ul><li><p>Tahsin Reasat, <strong>Abir Saha</strong>, and Md. Forkan Uddin. Cognitive Radio Network with Coordinated Multipoint Joint Transmission. In <em>International Journal of Communication Systems (IJCS)</em>, March 2017. [<a href="http://onlinelibrary.wiley.com/doi/10.1002/dac.3310/abstract" target="_blank">Wiley</a>]</p></li></ul>
-
-
-<h3 class="h2">Short Papers</h3>
-
-<ul><li><p><strong>Abir Saha</strong>. 2022. <a href="https://abirsh.github.io/publications/BVI-audio-CHI2022-DC.pdf" target="_blank">Understanding and Designing for Accessibility in Audio Production among People with Vision Impairments</a>. In <em>Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI 2022)</em>, April 25 – May 05, 2022, New Orleans, LA, USA. [Doctoral Consortium]</p></li></ul>
-
-
-<ul><li><p>Thomas B. McHugh, <strong>Abir Saha</strong>, David Bar-El, Marcelo Worsley, and Anne Marie Piper. 2020. <a href="https://abirsh.github.io/publications/DHOH-audio-CHI2021-preprint.pdf" target="_blank">Towards Inclusive Streaming: Building Multimodal Music Experiences for the Deaf and Hard of Hearing</a>. In <em>Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems (CHI 2021)</em>, May 08–13, 2021, Online Virtual Conference. [Late-Breaking Work]</p></li></ul>
-  
-  
-<h3 class="h2">Patents</h3>
-
-* Rini Sherony, Stanley Yung-Ping Chien, Qiang Yi, Jun Lin, **Abir Saha**, Yaobin Chen, and Chi-Chih Chen. Surrogate for concrete divider. *US Patent 10597835*, March 2020. [[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10597835.PN.){:target="_blank"}]   
-  
-  
-* Rini Sherony, Stanley Yung-Ping Chien, Qiang Yi, Jun Lin, **Abir Saha**, Yaobin Chen, and Chi-Chih Chen. Surrogate for metal guardrail. *US Patent 10689818*, June 2020. [[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10689818.PN.){:target="_blank"}]  
-  
 
 ---
-<h2 class="h1" style="color: rgb(1,92,171)" id="contact-me">Contact Me </h2>
+<h2 class="h1" style="color: rgb(1,92,171)" id="articles">Artigos </h2>
 
-<!-- Northwestern University  
-Frances Searle Building #2-430  
-2240 Campus Drive  
-Evanston, IL 60208, USA -->
-<p class="home-element"><strong>abi<!-- ghuiknh -->r [a<!-- jngingbhir -->t] u [dot] nor<!-- hdfuhfbrhd -->thweste<!-- hfugu -->rn [dot] edu</strong></p>
+<h3 class="h2">Insights and Optimizations from Benchmarking frameworks</h3>
+
+Neste artigo realizei a medição de algumas métricas de saturação e latência com alguns frameworks em Java, Kotlin, Go e Nodejs. Além disso, são mostradas algumas abordagens para melhora de performance de cada framework e linguagem.
+
+[Link do artigo](https://medium.com/@lucas01/insights-and-optimizations-from-benchmarking-frameworks-a089bf44320)
 
 <style type="text/css">
   .body-social > ul {

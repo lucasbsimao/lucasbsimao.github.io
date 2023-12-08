@@ -48,12 +48,10 @@ author:
 menu:
   - title:             SOBRE
     url:               /#about
-  - title:             PALESTRAS E ARTIGOS
-    url:               /#publications
-  - title:             CONTATO
-    url:               /#contact-me
-  - title:             CURRÍCULO
-    url:               /assets/files/Lucas_BorsattoSimao_Curriculo.pdf
+  - title:             PALESTRAS
+    url:               /#lectures
+  - title:             ARTIGOS
+    url:               /#articles
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
