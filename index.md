@@ -35,8 +35,8 @@ Gosto muito de tecnologia, astronomia, futebol e xadrez ([Profile chess.com](htt
 <div class="body-social sidebar-social">
   <ul>
     <li> <a href="https://www.linkedin.com/in/lucas-borsatto-8b9a405a/" title="LinkedIn" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span aria-hidden="true">LinkedIn </span><span class="sr-only">LinkedIn</span></a></li>
-    <li> <a href="https://github.com/lucasbsimao" title="Github" class="no-mark-external" target="_blank"> <span class="icon-github"></span> <span aria-hidden="true">Github </span><span class="sr-only">Github</span></a></li>
-    <li> <a href="https://stackoverflow.com/users/2581736/lucas-borsatto" title="Stack Overflow" class="no-mark-external" target="_blank"> <span class="icon-stackoverflow"></span> <span aria-hidden="true">Stack Overflow</span><span class="sr-only">Stack Overflow</span></a></li>
+    <!-- <li> <a href="https://github.com/lucasbsimao" title="GitHub" class="no-mark-external" target="_blank"> <span class="icon-github"></span> <span aria-hidden="true">Github </span><span class="sr-only">GitHub</span></a></li>
+    <li> <a href="https://stackoverflow.com/users/2581736/lucas-borsatto" title="Stack Overflow" class="no-mark-external" target="_blank"> <span class="icon-stackoverflow"></span> <span aria-hidden="true">Stack Overflow</span><span class="sr-only">Stack Overflow</span></a></li> -->
   </ul>
 </div>
 
