@@ -107,7 +107,7 @@ Neste artigo realizei a medição de algumas métricas de saturação e latênci
 
 Uma implementação básica com o objetivo de mostrar corner cases comuns quando lidando com grandes throughputs e quantidade de transações. Aqui exploro soluções como aplicação de isolation levels e estratégias de locking.
 
-[Link do artigo](https://medium.com/@lucas01/insights-and-optimizations-from-benchmarking-frameworks-a089bf44320)
+[Link do artigo](https://medium.com/@lucas01/understanding-consistency-in-databases-beyond-the-basics-293013a50481)
 
 <style type="text/css">
   .body-social > ul {
