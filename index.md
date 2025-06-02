@@ -101,6 +101,14 @@ Neste artigo realizei a medição de algumas métricas de saturação e latênci
 
 [Link do artigo](https://medium.com/@lucas01/insights-and-optimizations-from-benchmarking-frameworks-a089bf44320)
 
+<br/>
+
+<h3 class="h2">Understanding Consistency in Databases: Beyond the basics</h3>
+
+Uma implementação básica com o objetivo de mostrar corner cases comuns quando lidando com grandes throughputs e quantidade de transações. Aqui exploro soluções como aplicação de isolation levels e estratégias de locking.
+
+[Link do artigo](https://medium.com/@lucas01/insights-and-optimizations-from-benchmarking-frameworks-a089bf44320)
+
 <style type="text/css">
   .body-social > ul {
     display: inline-block;
