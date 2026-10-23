@@ -46,11 +46,11 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             SOBRE
+  - title:             ABOUT
     url:               /#about
-  - title:             PALESTRAS
+  - title:             LECTURES
     url:               /#lectures
-  - title:             ARTIGOS
+  - title:             ARTICLES
     url:               /#articles
 
 # Add links to the footer.

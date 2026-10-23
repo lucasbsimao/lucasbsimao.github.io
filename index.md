@@ -42,6 +42,15 @@ I’m really into technology, astronomy, soccer, and chess (I accept challenges 
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="lectures">Talks</h2>
 
+<h3 class="h2">Better Bug Prevention: Where Integration Tests Pay Off</h3>
+
+<h3 class="h2">Date: 05/22/2026</h3>
+
+Talk on how integration tests improve software quality and save money by applying "shift left" to quality checks. It looks at three cycles of bug data, estimates what escaped bugs cost in dev time, and shows that about half of them could have been caught earlier by an integration test. It ends with a skill that writes those integration tests on top of an existing harness.
+
+[PDF of the talk](https://lucasbsimao.github.io/lectures/ITTests.pdf)
+<br/>
+
 <h3 class="h2">DDD and SOLID applied to API Design</h3>
 
 <h3 class="h2">Date: 12/07/2023</h3>
